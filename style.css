@@ -1,0 +1,17 @@
+body {
+	height: 300px;
+	width: 300px;
+	word-wrap: break-word;
+	border-radius: 25px;
+    border-collapse: separate; 
+    overflow: hidden;
+}
+
+#close_tabs {
+	font-weight: bold;
+}
+
+li a {
+	line-height: 20px;
+
+}
